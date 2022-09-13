@@ -32,3 +32,10 @@ main img {
     border: dashed red 5px;
     margin: 0px;
 }
+
+p {
+    color: red;
+    font-size: 100px;
+    background-color: blueviolet;
+    width: auto;
+}
